@@ -13,17 +13,17 @@ export const Experience = () => {
   };
 
   const faqs = [
+    // {
+    //   question:
+    //     " Feb 2024 - Present: Junior Frontend Developer at Rytsense Technologies | Remote",
+    //   answer:
+    //     "Promoted to full-time role, where I worked on live projects such as Blue Field, a tool for creating workflows, managing task for agent, privileges based on user type, managing frontend development, and API integration. Developed the frontend for Dooption, a trading platfor",
+    // },
     {
       question:
-        " Feb 2024 - Present: Junior Frontend Developer at Rytsense Technologies | Remote",
+        " Nov 2023 - Present - Frontend Developer at Rytsense Technologies | Remote",
       answer:
-        "Promoted to full-time role, where I worked on live projects such as Blue Field, a tool for creating workflows, managing task for agent, privileges based on user type, managing frontend development, and API integration. Developed the frontend for Dooption, a trading platfor",
-    },
-    {
-      question:
-        " Nov 2023 - Jan 2024: Intern - Frontend Developer at Rytsense Technologies | Remote",
-      answer:
-        "Worked on web application development using React.js to create dynamic user interfaces. Contributed to the frontend design of the Rytsnese website, focusing on responsive layouts and user experience. Assisted in building the frontend for an Autonomous agent system, Gained practical knowledge of modern web technologies such as React, JavaScript, HTML, and CSS Tailwind CSS, Bootstrap.",
+        " Designed and implemented dynamic user interfaces using React.js, improving user   experience and reducing page load times.Collaborated with backend teams to integrate RESTful APIs, ensuring seamless data flow and robust application functionality.",
     },
     {
       question:
