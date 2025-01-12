@@ -10,7 +10,7 @@ export const Project = () => {
 
         <div className="rounded overflow-hidden shadow-lg flex flex-col">
           <div className="relative">
-            <a href="https://dashboard-frontend-git-main-vaishnavis-projects-3553f5c5.vercel.app/">
+            <a href="https://dashboard-frontend-ten-brown.vercel.app/">
               <img
                 className="w-full h-auto max-h-60 object-contain"
                 src={dashboardImg}
@@ -21,7 +21,7 @@ export const Project = () => {
           </div>
           <div className="px-6 py-4 mb-auto">
             <a
-              href="https://dashboard-frontend-git-main-vaishnavis-projects-3553f5c5.vercel.app/"
+              href="https://dashboard-frontend-ten-brown.vercel.app/"
               className="font-medium text-lg inline-block hover:text-indigo-600 transition duration-500 ease-in-out inline-block mb-2"
             >
               Dashboard
@@ -35,7 +35,7 @@ export const Project = () => {
 
         <div className="rounded overflow-hidden shadow-lg flex flex-col">
           <div className="relative">
-            <a href="https://decisontrees-acixixo4i-vaishnavis-projects-3553f5c5.vercel.app/">
+            <a href="https://decison-tree-gamma.vercel.app/">
               <img
                 className="w-full h-auto max-h-72 object-contain"
                 src={desiciontree}
@@ -46,7 +46,7 @@ export const Project = () => {
           </div>
           <div className="px-6 py-4 mb-auto">
             <a
-              href="https://decisontrees-acixixo4i-vaishnavis-projects-3553f5c5.vercel.app/"
+              href="https://decison-tree-gamma.vercel.app/"
               className="font-medium text-lg inline-block hover:text-indigo-600 transition duration-500 ease-in-out inline-block mb-2"
             >
               Decison Tree
@@ -88,7 +88,7 @@ export const Project = () => {
 
         <div className="rounded overflow-hidden shadow-lg flex flex-col">
           <div className="relative">
-            <a href="https://frontend-yatra-oa8otnu07-vaishnavis-projects-3553f5c5.vercel.app">
+            <a href="https://frontend-booking-five.vercel.app/">
               <img
                 className="w-full h-auto max-h-60 object-contain"
                 src={BookingImg}
@@ -99,7 +99,7 @@ export const Project = () => {
           </div>
           <div className="px-6 py-4 mb-auto">
             <a
-              href="https://frontend-yatra-oa8otnu07-vaishnavis-projects-3553f5c5.vercel.app"
+              href="https://frontend-booking-five.vercel.app/"
               className="font-medium text-lg inline-block hover:text-indigo-600 transition duration-500 ease-in-out inline-block mb-2"
             >
               Booking 
