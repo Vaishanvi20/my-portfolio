@@ -1,9 +1,62 @@
 import React from "react";
 import calculaterImg from "../../../assets/calculater.png";
+import dashboardImg from "../../../assets/dashboard.png"
+import desiciontree from "../../../assets/decison tree.png"
+import BookingImg from "../../../assets/boooking.png"
 export const Project = () => {
   return (
     <div className="max-w-screen-xl mx-auto p-5 sm:p-10 md:p-16">
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-10">
+
+        <div className="rounded overflow-hidden shadow-lg flex flex-col">
+          <div className="relative">
+            <a href="https://dashboard-frontend-git-main-vaishnavis-projects-3553f5c5.vercel.app/">
+              <img
+                className="w-full h-auto max-h-60 object-contain"
+                src={dashboardImg}
+                alt="Calculator"
+              />
+              <div className="hover:bg-transparent transition duration-300 absolute bottom-0 top-0 right-0 left-0 bg-gray-900 opacity-25"></div>
+            </a>
+          </div>
+          <div className="px-6 py-4 mb-auto">
+            <a
+              href="https://dashboard-frontend-git-main-vaishnavis-projects-3553f5c5.vercel.app/"
+              className="font-medium text-lg inline-block hover:text-indigo-600 transition duration-500 ease-in-out inline-block mb-2"
+            >
+              Dashboard
+            </a>
+            <p className="text-gray-500 text-sm">
+              A simple and elegant dashboard designed using React Js , tailwind Css. Which showing the metrics based on vehical datas
+            </p>
+          </div>
+          <div className="px-6 py-3 flex flex-row items-center justify-between bg-gray-100"></div>
+        </div>
+
+        <div className="rounded overflow-hidden shadow-lg flex flex-col">
+          <div className="relative">
+            <a href="https://decisontrees-acixixo4i-vaishnavis-projects-3553f5c5.vercel.app/">
+              <img
+                className="w-full h-auto max-h-72 object-contain"
+                src={desiciontree}
+                alt="Calculator"
+              />
+              <div className="hover:bg-transparent transition duration-300 absolute bottom-0 top-0 right-0 left-0 bg-gray-900 opacity-25"></div>
+            </a>
+          </div>
+          <div className="px-6 py-4 mb-auto">
+            <a
+              href="https://decisontrees-acixixo4i-vaishnavis-projects-3553f5c5.vercel.app/"
+              className="font-medium text-lg inline-block hover:text-indigo-600 transition duration-500 ease-in-out inline-block mb-2"
+            >
+              Decison Tree
+            </a>
+            <p className="text-gray-500 text-sm">
+              A simple app where u can create tree . We use React Js for building the UI
+            </p>
+          </div>
+          <div className="px-6 py-3 flex flex-row items-center justify-between bg-gray-100"></div>
+        </div>
         {/* Gym Management System */}
         <div className="rounded overflow-hidden shadow-lg flex flex-col">
           <div className="relative">
@@ -32,6 +85,31 @@ export const Project = () => {
           <div className="px-6 py-3 flex flex-row items-center justify-between bg-gray-100"></div>
         </div>
 
+
+        <div className="rounded overflow-hidden shadow-lg flex flex-col">
+          <div className="relative">
+            <a href="https://frontend-yatra-oa8otnu07-vaishnavis-projects-3553f5c5.vercel.app">
+              <img
+                className="w-full h-auto max-h-60 object-contain"
+                src={BookingImg}
+                alt="Calculator"
+              />
+              <div className="hover:bg-transparent transition duration-300 absolute bottom-0 top-0 right-0 left-0 bg-gray-900 opacity-25"></div>
+            </a>
+          </div>
+          <div className="px-6 py-4 mb-auto">
+            <a
+              href="https://frontend-yatra-oa8otnu07-vaishnavis-projects-3553f5c5.vercel.app"
+              className="font-medium text-lg inline-block hover:text-indigo-600 transition duration-500 ease-in-out inline-block mb-2"
+            >
+              Booking 
+            </a>
+            <p className="text-gray-500 text-sm">
+              A here we doing simple flow for booking the seat, with webcam in ReactJs, tailwndcss, JS
+            </p>
+          </div>
+          <div className="px-6 py-3 flex flex-row items-center justify-between bg-gray-100"></div>
+        </div>
         {/* Company Site Dummy */}
         <div className="rounded overflow-hidden shadow-lg flex flex-col">
           <div className="relative">
