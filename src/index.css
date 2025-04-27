@@ -15,3 +15,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.clip-path-trapezoid {
+  clip-path: polygon(0% 0%, 100% 0%, 80% 100%, 0% 100%);
+}
+.clip-path-trapezoid2{
+  clip-path: polygon(100% 0%,100% 80% ,0% 100%,0% 0%) ;
+}

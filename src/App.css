@@ -37,3 +37,8 @@
   }
 }
 
+
+.bgColor{
+  background: rgb(20,20,20);
+  background: linear-gradient(0deg, rgba(20,20,20,0.9487179487179487) 10%, rgba(73,33,106,1) 100%);
+}
